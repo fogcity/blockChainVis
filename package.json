@@ -9,7 +9,6 @@
     "server": "blocklet server start",
     "build:ui": "npx lerna run build --scope=@sui/react",
     "test:ui": "npx lerna run test --scope=@sui/react",
-    "dev:docs": "npx lerna run dev --scope=@sui/",
     "dev:site": "npx lerna run dev --scope=website",
     "dev": "npx lerna run dev"
   },

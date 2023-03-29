@@ -54,5 +54,6 @@
     "vite-plugin-svgr": "^2.4.0",
     "zx": "^7.1.1",
     "@blocklet/ui": "*"
-  }
+  },
+  "__npminstall_done": false
 }
